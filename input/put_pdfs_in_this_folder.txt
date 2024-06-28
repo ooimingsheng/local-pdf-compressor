@@ -1,0 +1,1 @@
+put pdfs to be compressed in this folder
